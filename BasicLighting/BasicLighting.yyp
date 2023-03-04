@@ -1,0 +1,33 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "BasicLighting",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.200.0.299",
+  },
+  "resources": [
+    {"id":{"name":"spr_tex","path":"sprites/spr_tex/spr_tex.yy",},},
+    {"id":{"name":"fnt_main","path":"fonts/fnt_main/fnt_main.yy",},},
+    {"id":{"name":"spr_light","path":"sprites/spr_light/spr_light.yy",},},
+    {"id":{"name":"obj_controller","path":"objects/obj_controller/obj_controller.yy",},},
+    {"id":{"name":"room_test","path":"rooms/room_test/room_test.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"room_test","path":"rooms/room_test/room_test.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}

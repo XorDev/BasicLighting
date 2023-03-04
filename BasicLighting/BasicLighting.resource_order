@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_tex","order":2,"path":"sprites/spr_tex/spr_tex.yy",},
+    {"name":"fnt_main","order":4,"path":"fonts/fnt_main/fnt_main.yy",},
+    {"name":"spr_light","order":1,"path":"sprites/spr_light/spr_light.yy",},
+    {"name":"room_test","order":3,"path":"rooms/room_test/room_test.yy",},
+  ],
+}
